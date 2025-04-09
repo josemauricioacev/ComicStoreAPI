@@ -6,7 +6,7 @@ from app.routers import categories, editorial, recommendations
 app = FastAPI(
     title="ComicStore API",
     version="1.0.0",
-    description="API para gestionar y recomendar comics."
+    description="GONZALO ETERNO HIJO DEL PEPEEEEEEEE."
 )
 
 # Incluir routers
